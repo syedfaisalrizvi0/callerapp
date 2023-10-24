@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/callerapp/static/css/main.073c9b0a.css",
-    "main.js": "/callerapp/static/js/main.d00bfd06.js",
+    "main.js": "/callerapp/static/js/main.cdffeb12.js",
     "static/js/787.dda38d0c.chunk.js": "/callerapp/static/js/787.dda38d0c.chunk.js",
     "index.html": "/callerapp/index.html",
     "main.073c9b0a.css.map": "/callerapp/static/css/main.073c9b0a.css.map",
-    "main.d00bfd06.js.map": "/callerapp/static/js/main.d00bfd06.js.map",
+    "main.cdffeb12.js.map": "/callerapp/static/js/main.cdffeb12.js.map",
     "787.dda38d0c.chunk.js.map": "/callerapp/static/js/787.dda38d0c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d00bfd06.js"
+    "static/js/main.cdffeb12.js"
   ]
 }
